@@ -23,6 +23,10 @@ const timeline: TimelineItem[] = [
     title: "Production scope",
     detail:
       "The main SaaS is already running in pt-BR production while this beta page previews the next phase."
+  },
+  {
+    title: "Launch date",
+    detail: "Planned public launch target: May 30, 2026."
   }
 ];
 

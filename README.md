@@ -2,6 +2,8 @@
 
 This repository hosts a simple beta landing page for Dito Dashboard and the Google Trends early access request.
 
+Planned public launch date: May 30, 2026.
+
 ## What Dito Dashboard will be
 
 Dito Dashboard is being built as a focused workspace for YouTube analytics, comments, trends, uploads, and AI-assisted planning.
